@@ -1,5 +1,10 @@
 # Памятка по Git
 
+## Ссылки 
+
+[GeekBrains](https://gb.ru/lessons/393400) - Курс по git git
+
+## Команды Git
 * Создание новой директории
 ```sh
 cd "e:\name"
