@@ -24,6 +24,10 @@ git status
 ```sh
 git add "file.name"
 ``` 
+* Просмотр разницы в сохранненом файле
+```sh
+git diff
+```
 * Сохранение версии
 ```sh
 git add "file.name"
