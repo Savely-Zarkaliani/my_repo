@@ -64,3 +64,29 @@ git diff "ver1" "ver2"
 del "file.name"
 ```
 > Удаление файла
+
+* ## Управление ветвями
+```sh
+git branch "branch_name"
+```
+> Создание ветви
+*
+```sh
+git checkout "branch_name"
+```
+> Переход к ветви
+*
+```sh
+git branch
+```
+> Список всех ветвей
+*
+```sh
+git merge "branch_name"
+```
+> Слияние ветвей (**Делается в ветви _В КОТОРУЮ_ нужно перенести информацию**)
+*
+```sh
+git branch -d "branch_name"
+```
+> Удаление ветви
