@@ -64,3 +64,8 @@ git diff "ver1" "ver2"
 del "file.name"
 ```
 > Удаление файла
+*
+```sh
+git branch
+```
+> Создание ветви
